@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(135deg, #ffffff 0%, #fff0f0 100%);
+    min-height: 100vh;
+}
+
+.navbar-custom {
+    background: linear-gradient(135deg, #d32f2f, #e53935);
+    box-shadow: 0 4px 15px rgba(211, 47, 47, 0.2);
+}
+.nav-link {
+    transition: all 0.3s ease;
+}
+.nav-link.active {
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+}
+
+.bg-red-gradient {
+    background: linear-gradient(135deg, #d32f2f, #e53935) !important;
+    color: white;
+}
+.btn-red {
+    background: linear-gradient(135deg, #d32f2f, #e53935);
+    color: white;
+    border: none;
+    transition: all 0.3s ease;
+}
+.btn-red:hover {
+    background: #b71c1c;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(211, 47, 47, 0.3);
+}
+
+.data-rahasia {
+    filter: blur(6px);
+    user-select: none;
+    transition: filter 0.4s ease-in-out;
+}
+.data-rahasia.revealed {
+    filter: blur(0);
+    user-select: auto;
+}
