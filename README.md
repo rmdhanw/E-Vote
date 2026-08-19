@@ -1,4 +1,4 @@
-# 🏛️ E-Voting Ketua RT - Sistem Pemilihan Digital
+#  E-Voting Ketua RT - Sistem Pemilihan Digital
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -25,7 +25,7 @@ Sistem ini memisahkan hak akses antara **Admin** (Panitia) dan **Device** (Bilik
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 *   **Backend:** PHP 8.x, Laravel 13
 *   **Frontend:** Blade Templating, Vanilla CSS, Bootstrap 5
@@ -34,7 +34,7 @@ Sistem ini memisahkan hak akses antara **Admin** (Panitia) dan **Device** (Bilik
 
 ---
 
-## ⚙️ Panduan Instalasi (Local Development)
+##  Panduan Instalasi (Local Development)
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal Anda.
 
